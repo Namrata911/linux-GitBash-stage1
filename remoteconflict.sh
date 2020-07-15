@@ -1,1 +1,1 @@
-echo "Remote conflict"
+echo "Remote conflict chabged at local"
